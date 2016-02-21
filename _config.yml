@@ -1,0 +1,14 @@
+layout_spectrum: 0.6042553
+typography_spectrum: 0.5191489
+color:
+  saturation: 0.172631
+  lightness: 0.8815127
+  brandStrength: 0.03372514
+  rhythmicContrast: 0.6699156
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: FB Blog
