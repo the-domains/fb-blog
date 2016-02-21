@@ -1,8 +1,5 @@
-layout_spectrum: 0.6042553
-typography_spectrum: 0.5191489
 color:
   saturation: 0.172631
-  lightness: 0.8815127
   brandStrength: 0.03372514
   rhythmicContrast: 0.6699156
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  lightness: 0.8815127
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.6042553
+typography_spectrum: 0.5191489
 name: FB Blog
